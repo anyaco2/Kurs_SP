@@ -1,0 +1,26 @@
+﻿Построение начато 05.06.2023 17:56:57.
+     1>Проект "C:\Users\Anya\Documents\Visual Studio 2012\Projects\Курсовая2\Курсовая2\Курсовая2.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Xml.dll" /analyze- /errorReport:prompt MyForm.cpp
+         MyForm.cpp
+     1>c:\users\anya\documents\visual studio 2012\projects\курсовая2\курсовая2\MyForm.h(374): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\anya\documents\visual studio 2012\projects\курсовая2\курсовая2\MyForm.h(375): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\anya\documents\visual studio 2012\projects\курсовая2\курсовая2\MyForm.h(376): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\anya\documents\visual studio 2012\projects\курсовая2\курсовая2\MyForm.h(377): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\anya\documents\visual studio 2012\projects\курсовая2\курсовая2\MyForm.h(378): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\anya\documents\visual studio 2012\projects\курсовая2\курсовая2\MyForm.h(379): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\anya\documents\visual studio 2012\projects\курсовая2\курсовая2\MyForm.h(380): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\anya\documents\visual studio 2012\projects\курсовая2\курсовая2\MyForm.h(381): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\anya\documents\visual studio 2012\projects\курсовая2\курсовая2\MyForm.h(387): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\anya\documents\visual studio 2012\projects\курсовая2\курсовая2\MyForm.h(460): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\anya\documents\visual studio 2012\projects\курсовая2\курсовая2\MyForm.h(462): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\anya\documents\visual studio 2012\projects\курсовая2\курсовая2\MyForm.h(464): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Anya\Documents\Visual Studio 2012\Projects\Курсовая2\Debug\Kurs.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:"Debug\Курсовая2.MyForm.resources" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Anya\Documents\Visual Studio 2012\Projects\Курсовая2\Debug\Kurs.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.6.1.AssemblyAttributes.obj"
+         Курсовая2.vcxproj -> C:\Users\Anya\Documents\Visual Studio 2012\Projects\Курсовая2\Debug\Kurs.exe
+     1>Построение проекта "C:\Users\Anya\Documents\Visual Studio 2012\Projects\Курсовая2\Курсовая2\Курсовая2.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.77
